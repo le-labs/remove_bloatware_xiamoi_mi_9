@@ -10,10 +10,10 @@ com.android.calendar
 #com.miui.calculator
 #com.android.deskclock
 #com.android.mms
-com.miui.antispam
+#com.miui.antispam
 com.miui.smsextra
-com.miui.screenrecorder
-com.miui.cleanmaster
+#com.miui.screenrecorder
+#com.miui.cleanmaster
 com.miui.fm
 com.mi.android.globalFileexplorer
 com.mi.android.globalpersonalassistant
@@ -115,4 +115,10 @@ com.google.android.printservice.recommendation
 com.android.midrive
 com.miui.miservice
 #com.google.android.inputmethod.latin
-com.miui.securitycenter
+# USER ADDED PACKAGES
+#com.miui.securitycenter
+com.alibaba.aliexpresshd
+com.facebook.katana
+com.opera.browser
+com.miui.enbbs
+com.google.android.apps.tachyon
